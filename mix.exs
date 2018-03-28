@@ -100,7 +100,7 @@ defmodule EvercamMedia.Mixfile do
       {:meck,  "~> 0.8.4", override: :true},
       {:html_sanitize_ex, "~> 1.2.0"},
       {:new_relic, github: "azharmalik3/newrelic-elixir", override: true},
-      {:gen_stage, "~> 0.11"},
+      {:gen_stage, "~> 0.13.1"},
       {:poison, "~> 3.1.0", override: true},
       {:elixir_dropbox, "~> 0.0.7"},
       {:ex_aws, "~> 1.1.5"},
