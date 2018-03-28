@@ -76,7 +76,7 @@ defmodule EvercamMedia.Mixfile do
       {:calendar, "~> 0.17.4"},
       {:comeonin, "~> 3.0.2"},
       {:con_cache, "~> 0.12.1"},
-      {:cors_plug, "~> 1.2.1"},
+      {:cors_plug, "~> 1.5"},
       {:cowboy, "~> 1.1.2"},
       {:credo, "~> 0.8.8", only: :dev},
       {:dotenv, "~> 3.0.0", only: [:dev, :test]},
