@@ -2,7 +2,7 @@
   "bunt": {:hex, :bunt, "0.2.0", "951c6e801e8b1d2cbe58ebbd3e616a869061ddadcc4863d0a2182541acae9a38", [:mix], [], "hexpm"},
   "calendar": {:hex, :calendar, "0.17.4", "22c5e8d98a4db9494396e5727108dffb820ee0d18fed4b0aa8ab76e4f5bc32f1", [:mix], [{:tzdata, "~> 0.5.8 or ~> 0.1.201603", [hex: :tzdata, repo: "hexpm", optional: false]}], "hexpm"},
   "certifi": {:hex, :certifi, "2.0.0", "a0c0e475107135f76b8c1d5bc7efb33cd3815cb3cf3dea7aefdd174dabead064", [:rebar3], [], "hexpm"},
-  "cf": {:hex, :cf, "0.2.2", "7f2913fff90abcabd0f489896cfeb0b0674f6c8df6c10b17a83175448029896c", [:rebar3], [], "hexpm"},
+  "cf": {:hex, :cf, "0.3.1", "5cb902239476e141ea70a740340233782d363a31eea8ad37049561542e6cd641", [:rebar3], [], "hexpm"},
   "combine": {:hex, :combine, "0.10.0", "eff8224eeb56498a2af13011d142c5e7997a80c8f5b97c499f84c841032e429f", [:mix], [], "hexpm"},
   "comeonin": {:hex, :comeonin, "3.0.2", "8b213268a6634bd2e31a8035a963e974681d13ccc1f73f2ae664b6ac4e993c96", [:make, :mix], [{:elixir_make, "~> 0.4", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm"},
   "con_cache": {:hex, :con_cache, "0.12.1", "7553dcd51ee86fd52bd9ea9aa4b33e71bebf0b5fc5ab60e63d2e0bcaa260f937", [:mix], [{:exactor, "~> 2.2.0", [hex: :exactor, repo: "hexpm", optional: false]}], "hexpm"},
